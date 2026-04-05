@@ -80,27 +80,18 @@
 #### Programming Languages
 [![Languages](https://skillicons.dev/icons?i=python,js,java)](https://skillicons.dev)
 
-<br>
-
 #### Frontend
 [![Frontend](https://skillicons.dev/icons?i=react,html,css,tailwind)](https://skillicons.dev)
-
-<br>
 
 #### Backend
 [![Backend](https://skillicons.dev/icons?i=django,nextjs,spring)](https://skillicons.dev)
 
-<br>
-
 #### Database
 [![Database](https://skillicons.dev/icons?i=mysql,postgresql,sqlite)](https://skillicons.dev)
-
-<br>
 
 #### UI / UX
 [![UI/UX](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 <img height="40" alt="canvas" src="https://github.com/user-attachments/assets/402b8519-0d54-4eac-a21c-95a7836e9b67" />
-
 
 #### AI / ML & Computer Vision
 [![AI/ML](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev)
