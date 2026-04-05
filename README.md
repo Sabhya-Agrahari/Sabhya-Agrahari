@@ -115,6 +115,10 @@
 
 ---
 
+[![My Skills](https://skillicons.dev/icons?i=python,java,js,react,nextjs,django,spring,mysql,git,postman,vscode)](https://skillicons.dev)
+
+-----
+
 🚀 **Featured Projects:**
 
 🔹 **Full Stack Web Application**
