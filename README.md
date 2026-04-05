@@ -29,7 +29,7 @@
 
 ### 💬 Ask me about
 
-* Python 🐍
+* Python 
 * Backend Development
 * Full Stack Projects
 * Logic Building & Coding Improvement
@@ -74,17 +74,26 @@
 <br>
 
 #### Frontend
-[![Frontend](https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,html,css,tailwind)](https://skillicons.dev)
 
 <br>
 
 #### Backend
-[![Backend](https://skillicons.dev/icons?i=django,spring)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=django,nextjs,spring)](https://skillicons.dev)
 
 <br>
 
 #### Database
-[![Database](https://skillicons.dev/icons?i=mysql,postgre,sqlite)](https://skillicons.dev)
+[![Database](https://skillicons.dev/icons?i=mysql,postgresql,sqlite)](https://skillicons.dev)
+
+<br>
+
+#### UI / UX
+[![UI/UX](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+
+<br>
+
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 <br>
 
@@ -101,40 +110,10 @@
 <br>
 
 #### Tools
-[![Tools](https://skillicons.dev/icons?i=git,postman,vscode)](https://skillicons.dev)---
-
-[![My Skills](https://skillicons.dev/icons?i=python,java,js,react,nextjs,django,spring,mysql,git,postman,vscode)](https://skillicons.dev)
-
------
-
-🚀 **Featured Projects:**
-
-🔹 **Full Stack Web Application**
-
-* Built scalable web application using React + Django 
-* Implemented authentication & role-based access
-* Designed optimized APIs for performance
-
-🔹 **Authentication & User Management System**
-
-* Secure login/signup system with validation
-* Token-based authentication (JWT)
-* Role-based authorization
-
-🔹 **REST API Development**
-
-* Designed and developed RESTful APIs
-* Focus on clean architecture & scalability
-* Proper error handling & validation
-
-🔹 **Database Design System**
-
-* Designed relational database using MySQL
-* Optimized queries for performance
-* Implemented normalization & indexing
-
+[![Tools](https://skillicons.dev/icons?i=git,postman,vscode)](https://skillicons.dev)
 
 ---
 
+⭐ *"I don’t just write code, I understand it deeply."*
 ⭐ *"I don’t just write code, I understand it deeply."*
 
