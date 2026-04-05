@@ -69,8 +69,8 @@
 
 **Programming Languages**
 
-* Python 🐍
-* Java ☕
+* Python 
+* Java 
 * JavaScript
 
 **Front End**
