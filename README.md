@@ -89,7 +89,7 @@
 <br>
 
 #### UI / UX
-[![UI/UX](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+[![UI/UX](https://skillicons.dev/icons?i=figma,canva)](https://skillicons.dev)
 
 <br>
 
