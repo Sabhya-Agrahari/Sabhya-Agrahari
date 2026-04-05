@@ -98,7 +98,7 @@
 <br>
 
 <a href="https://www.canva.com/" target="_blank">
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="50" width="50"/>
+      <img src="https://cdn.simpleicons.org/canva" height="50"/>
 </a>
 
 #### AI / ML & Computer Vision
