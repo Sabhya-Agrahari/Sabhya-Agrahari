@@ -69,7 +69,7 @@
 ### 💻 Tech Stack
 
 #### Programming Languages
-[![Languages](https://skillicons.dev/icons?i=python,java,js)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,js,java)](https://skillicons.dev)
 
 <br>
 
@@ -90,25 +90,17 @@
 
 #### UI / UX
 [![UI/UX](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+![canva-circular-logo-glossy-modern-finish-free-png](https://github.com/user-attachments/assets/c41b724c-a626-4891-8867-c55f83d2e6b7)
 
 
-
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" height="50"/>
 
 #### AI / ML & Computer Vision
 [![AI/ML](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev)
 
-<br>
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-<br>
+<img width="512" height="512" alt="pandas" src="https://github.com/user-attachments/assets/43fb27a2-d5e3-4b27-9aaf-ef5c6f306cf4" />
+<img width="225" height="225" alt="images" src="https://github.com/user-attachments/assets/bc4fa2dd-5b9e-4a72-86ec-26ecd2586c95" />
+<img width="198" height="254" alt="opencv" src="https://github.com/user-attachments/assets/3f2422d8-081c-490b-a575-f77c361b5bc0" />
+<img width="225" height="225" alt="scikit" src="https://github.com/user-attachments/assets/324483f3-3425-431b-88c2-0aec7d4e6ad3" />
 
 #### Tools
 [![Tools](https://skillicons.dev/icons?i=git,postman,vscode)](https://skillicons.dev)
@@ -116,5 +108,5 @@
 ---
 
 ⭐ *"I don’t just write code, I understand it deeply."*
-⭐ *"I don’t just write code, I understand it deeply."*
+
 
