@@ -90,17 +90,15 @@
 
 #### UI / UX
 [![UI/UX](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
-![canva-circular-logo-glossy-modern-finish-free-png](https://github.com/user-attachments/assets/c41b724c-a626-4891-8867-c55f83d2e6b7)
-
-
+<img height="20" alt="canva" src="https://github.com/user-attachments/assets/57867ada-df0f-4bd6-b095-a7601a186f0f" />
 
 #### AI / ML & Computer Vision
 [![AI/ML](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev)
 
-<img width="512" height="512" alt="pandas" src="https://github.com/user-attachments/assets/43fb27a2-d5e3-4b27-9aaf-ef5c6f306cf4" />
-<img width="225" height="225" alt="images" src="https://github.com/user-attachments/assets/bc4fa2dd-5b9e-4a72-86ec-26ecd2586c95" />
-<img width="198" height="254" alt="opencv" src="https://github.com/user-attachments/assets/3f2422d8-081c-490b-a575-f77c361b5bc0" />
-<img width="225" height="225" alt="scikit" src="https://github.com/user-attachments/assets/324483f3-3425-431b-88c2-0aec7d4e6ad3" />
+<img height="40" alt="pandas" src="https://github.com/user-attachments/assets/43fb27a2-d5e3-4b27-9aaf-ef5c6f306cf4" />
+<img height="40" alt="images" src="https://github.com/user-attachments/assets/bc4fa2dd-5b9e-4a72-86ec-26ecd2586c95" />
+<img height="40" alt="opencv" src="https://github.com/user-attachments/assets/3f2422d8-081c-490b-a575-f77c361b5bc0" />
+<img height="40" alt="scikit" src="https://github.com/user-attachments/assets/324483f3-3425-431b-88c2-0aec7d4e6ad3" />
 
 #### Tools
 [![Tools](https://skillicons.dev/icons?i=git,postman,vscode)](https://skillicons.dev)
