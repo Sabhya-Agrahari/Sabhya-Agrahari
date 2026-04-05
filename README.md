@@ -60,7 +60,7 @@
 🌐 **Socials:**
 
 * LinkedIn: https://www.linkedin.com/in/sabhya-agrahari-1864621a8/
-* Email: [your-email@example.com](sabhyaagrahari18@gmail.com)
+* Email: sabhyaagrahari18@gmail.com
 * GitHub: https://github.com/Sabhya-Agrahari
 
 ---
