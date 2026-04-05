@@ -65,55 +65,43 @@
 
 ---
 
-💻 **Tech Stack:**
 
-**Programming Languages**
+### 💻 Tech Stack
 
-* Python 
-* Java 
-* JavaScript
+#### Programming Languages
+[![Languages](https://skillicons.dev/icons?i=python,java,js)](https://skillicons.dev)
 
-**Front End**
+<br>
 
-* HTML5
-* CSS3
-* React.js
-* Next.js
+#### Frontend
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind)](https://skillicons.dev)
 
-**UI/UX**
+<br>
 
-* Responsive Design
-* Figma 
+#### Backend
+[![Backend](https://skillicons.dev/icons?i=django,spring)](https://skillicons.dev)
 
-**Backend**
+<br>
 
-* Python (Django / REST APIs)
-* Java
+#### Database
+[![Database](https://skillicons.dev/icons?i=mysql,postgre,sqlite)](https://skillicons.dev)
 
-**Database**
+<br>
 
-* MySQL
-* SqLite
-* Postgre
+#### AI / ML & Computer Vision
+[![AI/ML](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev)
 
-**Framework**
+<br>
 
-* Flask
-* Django
-* Next.js
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-**Version Control**
+<br>
 
-* Git
-* GitHub
-
-**Tools**
-
-* VS Code
-* Postman
-* GitHub Desktop
-
----
+#### Tools
+[![Tools](https://skillicons.dev/icons?i=git,postman,vscode)](https://skillicons.dev)---
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,js,react,nextjs,django,spring,mysql,git,postman,vscode)](https://skillicons.dev)
 
