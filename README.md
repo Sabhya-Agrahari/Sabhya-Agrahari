@@ -89,13 +89,11 @@
 <br>
 
 #### UI / UX
-[![UI/UX](https://skillicons.dev/icons?i=figma,canva)](https://skillicons.dev)
+[![UI/UX](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
-<br>
 
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-<br>
 
 <a href="https://www.canva.com/" target="_blank">
       <img src="https://cdn.simpleicons.org/canva" height="50"/>
