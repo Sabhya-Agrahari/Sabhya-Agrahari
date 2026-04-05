@@ -95,9 +95,7 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 
-<a href="https://www.canva.com/" target="_blank">
-      <img src="https://cdn.simpleicons.org/canva" height="50"/>
-</a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" height="50"/>
 
 #### AI / ML & Computer Vision
 [![AI/ML](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev)
