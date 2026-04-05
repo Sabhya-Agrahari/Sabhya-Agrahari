@@ -37,15 +37,15 @@
 ### 📫 How to reach me
 
 <a href="mailto:sabhyaagrahari18@gmail.com">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" height="40"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sabhya-agrahari-1864621a8/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="40"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/sabhya_agrahari/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" height="40"/>
+<a href="https://instagram.com/your-username" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 ### ⚡ Fun fact
