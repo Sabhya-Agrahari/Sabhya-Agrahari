@@ -97,6 +97,10 @@
 
 <br>
 
+<a href="https://www.canva.com/" target="_blank">
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="48"/>
+</a>
+
 #### AI / ML & Computer Vision
 [![AI/ML](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev)
 
