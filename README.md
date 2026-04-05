@@ -36,8 +36,17 @@
 
 ### 📫 How to reach me
 
-* Email: sabhyaagrahari18@gmail.com
-* LinkedIn: https://www.linkedin.com/in/sabhya-agrahari-1864621a8/
+<a href="mailto:sabhyaagrahari18@gmail.com">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" height="40"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sabhya-agrahari-1864621a8/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="40"/>
+</a>
+
+<a href="https://instagram.com/sabhya_agrahari/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" height="40"/>
+</a>
 
 ### ⚡ Fun fact
 
